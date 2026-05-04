@@ -12,6 +12,8 @@
 #### Yearly Trend ![Yearly trend](images/yearly%20trend.jpg)
 ### Conditional Formatting ![Bussiness Alert](images/yearly%20sales%20tables.PNG)
 ## Executive Summary
-The sales are decreasing year by year which implies that the company need to check on why there is decrease in sales.The overall business health is at risk. the company might experience a drastical decrease in sales by 2013
-from the tables above, Tola made the highest transaction, but not the highest revenue. This means that Tola is very productive with in how she gets customer but the customers are not buying large quantity of products
-Based on yearly performance, the company needs to work on the reasons behind decrease in sales yearly before concluding on hiring more sales Rep. More sales rep will only be efficient if the products are for the right audience and in good quality.
+The year-on-year decline in sales indicates a potential issue affecting overall business performance, which requires immediate attention. If this trend continues, the company risks experiencing a significant drop in revenue in subsequent years. It is essential to investigate the underlying causes of this decline, such as market conditions, product relevance, pricing strategy, or customer engagement.
+
+Analysis of individual performance shows that Tola recorded the highest number of transactions but did not generate the highest revenue. This suggests strong customer acquisition and activity levels; however, the average transaction value is relatively low, indicating that customers may not be purchasing in large quantities or higher-value products.
+
+Given the overall downward trend in sales, the company should prioritize identifying and addressing the root causes before considering expanding the sales team. Hiring additional sales representatives may not yield the desired results unless product-market fit, product quality, and target audience alignment are effectively optimized.
